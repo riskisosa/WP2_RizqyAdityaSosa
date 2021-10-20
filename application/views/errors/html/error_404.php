@@ -33,7 +33,7 @@ h1 {
 	padding: 14px 15px 10px 15px;
 }
 
-code 
+code {
 	font-family: Consolas, Monaco, Courier New, Courier, monospace;
 	font-size: 12px;
 	background-color: #f9f9f9;
