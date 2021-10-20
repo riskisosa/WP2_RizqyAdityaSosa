@@ -19,4 +19,3 @@ Backtrace:
 <?php	endforeach ?>
 
 <?php endif ?>
-.
