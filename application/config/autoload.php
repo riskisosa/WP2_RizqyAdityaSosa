@@ -32,7 +32,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
-|  Auto-load Packages
+|  Auto-load Package
 | -------------------------------------------------------------------
 | Prototype:
 |
