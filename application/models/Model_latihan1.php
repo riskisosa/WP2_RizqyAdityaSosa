@@ -13,3 +13,4 @@ class Model_latihan1 extends CI_Model
         $this->hasil = $this->nilai1 + $this->nilai2;
         return $this->hasil;
     }
+}
