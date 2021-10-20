@@ -24,4 +24,4 @@ base_url().'index.php/web/about' ?>"></a></li>
      <li>Berenang</li>
      <li>Voli</li>
  </ul>
-</section>
+</section
